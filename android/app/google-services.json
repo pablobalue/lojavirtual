@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "311627064409",
+    "project_id": "lojavirtual-18a91",
+    "storage_bucket": "lojavirtual-18a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311627064409:android:25b584b06396f3c32fbd48",
+        "android_client_info": {
+          "package_name": "br.com.delosbalue.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311627064409-lvhjlanq1dr0b4qu8d89p9vq5pk41pe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHxlMJZLixILmdrQIjinigE-y8Nuu_1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311627064409-lvhjlanq1dr0b4qu8d89p9vq5pk41pe2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311627064409-1kl1rp3om9b8clego130jm2rcf9kp1ht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.delosbalue.lojavirtual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
